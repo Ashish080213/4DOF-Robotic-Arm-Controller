@@ -1,2 +1,2 @@
-In this project I made an Arduino 4DOF Robotic Arm which can be wirelessly controlled and programmed using a custom-build Android application.
+In this project, an Arduino 4DOF Robotic Arm was built which can be wirelessly controlled and programmed using a custom-built Android application.
 Using the BUTTONS in the app we can manually control the movement of each servo or axis of the robot arm. Also using the “RECORD” button we can record each position or step and then the robot arm can automatically run and repeat these steps. With the "PAUSE" button we can pause the automatic operation as well as using "RESET" button we can reset or delete all steps so that we can record new ones.
